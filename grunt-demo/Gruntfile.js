@@ -6,7 +6,7 @@ module.exports = function(grunt) {
       },
       build: {
         src: 'src/index.js',
-        dest: 'build/index.min.js'
+        dest: 'dist/index.min.js'
       }
     }
   });
